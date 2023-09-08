@@ -19,7 +19,8 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '喜爱休闲游的Coco', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || 'Coco休闲游的个人博客', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://notion-next-1y3jbhfi6-cocovoyage.vercel.app', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://vercel.com/cocovoyage/notion-next/EHsJ8UWhivoRnN7wNUrrvcJeKddF
+', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Notion, 博客', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
